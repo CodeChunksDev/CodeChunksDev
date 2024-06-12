@@ -1,6 +1,9 @@
 ## Hi there 👋👋👋👋
 
-# -Have a nice day!!
+# have a nice day, and a precious life
+
+### 🔭 I’m currently working on different projects
+
 <!--
 **CodeChunksDev/CodeChunksDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
